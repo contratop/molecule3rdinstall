@@ -20,6 +20,8 @@ sleep 3
 	echo Installing SocialSploit...
 	sleep 5
 	git clone https://github.com/Cesar-Hack-Gray/SocialSploit
-	bash SocialSploit/install.sh
+	cd SocialSploit
+	bash install.sh
+exit
 #Fin del instalador, toma el relevo install.sh de SocialSploit
 	
