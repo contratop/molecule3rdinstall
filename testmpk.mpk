@@ -1,0 +1,4 @@
+sleep 1
+echo test mpk
+sleep 3
+exit
